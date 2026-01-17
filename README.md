@@ -5,7 +5,7 @@ A retro-style terminal utility for the Roblox Game **Stepford County Railway**  
 
 ## ✨ Features
 - **Immersive Boot Sequence:** High-fidelity terminal startup with flicker effects.
-- **Operator Authentication:** Realistic login system using official SCR operator codes.
+- **Operator Authentication:** Realistic login system using custom operator codes.
 - **Automatic Logging:** Saves your Route, Train Model, Service Number, and Arrival times.
 - **Smart Delay Tracker:** Automatically calculates if you were on time or delayed based on your ETA.
 - **Operator Statistics:** View your average performance and most frequent routes.
