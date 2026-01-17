@@ -3,7 +3,7 @@
 
 A retro-style terminal utility for the Roblox Game **Stepford County Railway**  drivers. Track your shifts, calculate delays, and keep your operator stats organized in one place.
 
-## ✨ Features
+##  Features
 - **Immersive Boot Sequence:** High-fidelity terminal startup with flicker effects.
 - **Operator Authentication:** Realistic login system using custom operator codes.
 - **Automatic Logging:** Saves your Route, Train Model, Service Number, and Arrival times.
