@@ -1,5 +1,5 @@
 # SCR-Shift-Terminal
-🚂 SCR Shift Terminal v1.5 (Beta)
+🚂 SCR Shift Terminal v1.0.0 (Beta)
 
 A retro-style terminal utility for the Roblox Game **Stepford County Railway**  drivers. Track your shifts, calculate delays, and keep your operator stats organized in one place.
 
