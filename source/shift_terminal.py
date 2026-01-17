@@ -10,7 +10,7 @@ from collections import Counter
 if sys.platform == "win32":
     os.system("")
 
-# 🛡️ SUPER PATH LOGIC: Stops the Desktop invasion!
+# SUPER PATH LOGIC: Stops data appearing on desktop xD
 # This finds the EXACT folder where the .exe or .py is sitting
 if getattr(sys, 'frozen', False):
     # If the app is running as an .exe (PyInstaller)
@@ -86,7 +86,8 @@ def save_all_rows(rows):
     with open(FILE_NAME, "w", newline="") as f:
         writer = csv.writer(f)
         writer.writerows(rows)
-
+        
+#Boot up sequence
 def boot():
     clear()
     style("╔══════════════════════╗")
@@ -241,7 +242,8 @@ def stats_screen(operator):
     style(f"Maximum delay recorded: {maxd} min")
     style(f"Most frequent route: {common_route}")
     pause()
-
+    
+#Operator menu
 def menu(operator):
     while True:
         clear()
@@ -278,3 +280,4 @@ if __name__ == "__main__":
     op = login()
     if op:
         menu(op)
+
